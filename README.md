@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Misheel Sodgerel</h1>
-- 🧶 Here's my Etsy Shop [https://www.etsy.com/shop/MishaMishki](https://www.etsy.com/shop/MishaMishki)
 
 - 👨‍💻 All of my game projects are available at [https://itch.io/profile/misheelsodgerel](https://itch.io/profile/misheelsodgerel)
 
@@ -8,6 +7,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/misheelsodgerel/](https://www.linkedin.com/in/misheelsodgerel/)
 
 - ⚡ Fun fact **I love science fiction and fiber arts!**
+  - 🧶 Here's my Etsy Shop https://www.etsy.com/shop/MishaMishki
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
