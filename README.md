@@ -6,6 +6,8 @@
 
 - 📄 Learn about my experiences on [LinkedIn](https://www.linkedin.com/in/misheelsodgerel/)
 
+- [Read my ACM blog posts here](https://acm.wustl.edu/)
+
 - ⚡ Fun fact **I love science fiction and fiber arts!**
   - 🧶 Here's my [Etsy Shop](https://www.etsy.com/shop/MishaMishki)
 
