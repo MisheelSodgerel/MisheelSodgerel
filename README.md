@@ -2,12 +2,12 @@
 
 - 👨‍💻 All of my game projects are available at [Itch.io](https://itch.io/profile/misheelsodgerel)
 
-- 📝 Here's my Figma samples [Product Design](https://www.figma.com/file/vKyEBem0TqxxknsrBSJgWg/Product-Design-Portfolio?type=design&node-id=0%3A1&mode=design&t=VJe8cZTT1aI29vmI-1)
+- 📝 Check out my [Product Design samples on Figma](https://www.figma.com/file/vKyEBem0TqxxknsrBSJgWg/Product-Design-Portfolio?type=design&node-id=0%3A1&mode=design&t=VJe8cZTT1aI29vmI-1)
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/misheelsodgerel/)
+- 📄 Learn about my experiences on [LinkedIn](https://www.linkedin.com/in/misheelsodgerel/)
 
 - ⚡ Fun fact **I love science fiction and fiber arts!**
-  - 🧶 Here's my Etsy Shop https://www.etsy.com/shop/MishaMishki
+  - 🧶 Here's my [Etsy Shop](https://www.etsy.com/shop/MishaMishki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
