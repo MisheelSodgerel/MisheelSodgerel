@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Misheel Sodgerel</h1>
 
-- 👨‍💻 All of my game projects are available at [https://itch.io/profile/misheelsodgerel](https://itch.io/profile/misheelsodgerel)
+- 👨‍💻 All of my game projects are available at [Itch.io](https://itch.io/profile/misheelsodgerel)
 
-- 📝 I regularly write articles on [https://acm.wustl.edu/](https://acm.wustl.edu/)
+- 📝 Here's my Figma samples [Product Design](https://www.figma.com/file/vKyEBem0TqxxknsrBSJgWg/Product-Design-Portfolio?type=design&node-id=0%3A1&mode=design&t=VJe8cZTT1aI29vmI-1)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/misheelsodgerel/](https://www.linkedin.com/in/misheelsodgerel/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/misheelsodgerel/)
 
 - ⚡ Fun fact **I love science fiction and fiber arts!**
   - 🧶 Here's my Etsy Shop https://www.etsy.com/shop/MishaMishki
